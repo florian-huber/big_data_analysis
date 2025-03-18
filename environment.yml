@@ -9,7 +9,7 @@ dependencies:
   - pandas
   - pip
   - requests
-  - "scikit-learn>=1.4.0 --prefer-binary"
+  - scikit-learn>=1.4.0
   - seaborn
   - tqdm
   - pytest
@@ -18,5 +18,5 @@ dependencies:
     - matplotlib
     - networkx
     - plotly
-    - "scipy>=1.8.0 --prefer-binary"
+    - scipy>=1.8.0
     - umap-learn
