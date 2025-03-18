@@ -1,0 +1,14 @@
+format: jb-book
+root: book/cover
+parts:
+  - caption: Introduction
+    numbered: true  # Only applies to chapters in Part 1.
+    chapters:
+    - file: book/01_introduction
+  - caption: References
+    chapters:
+    - file: book/acknowledgements
+    - file: book/bibliography
+  - caption: Source Code and Contributions
+    chapters:
+    - file: book/github
