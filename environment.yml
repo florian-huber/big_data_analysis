@@ -1,0 +1,22 @@
+name: big_data_engineering
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - numba
+  - pandas
+  - pip
+  - requests
+  - "scikit-learn>=1.4.0 --prefer-binary"
+  - seaborn
+  - tqdm
+  - pytest
+  - pip:
+    - jupyter
+    - matplotlib
+    - networkx
+    - plotly
+    - "scipy>=1.8.0 --prefer-binary"
+    - umap-learn
