@@ -17,6 +17,7 @@ dependencies:
     - jupyter
     - matplotlib
     - networkx
+    - opencv-python
     - plotly
     - scipy>=1.8.0
     - umap-learn
