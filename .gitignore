@@ -5,5 +5,8 @@ material_and_raw
 
 # Exclude the solutions
 *_solution.ipynb
+book/*.png
+book/*.jpg
+book/*.jpeg
 
 lib/
