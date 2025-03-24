@@ -8,13 +8,13 @@ In today’s digital world, data is generated at an unprecedented scale. In this
 
 **Big Data Engineering** refers to the development, implementation, and maintenance of systems and processes that collect, move, manipulate, and manage raw data to produce high-quality, consistent information. This information then supports a range of downstream use cases, including analytics, visualization, and machine learning.
 
-Two key definitions in the field provide useful perspectives:
+Two key definitions in the field provide useful perspectives {cite}`gavin_data_engineering_2019`{cite}`reis_data_engineering_2022`:
 
 > **"Data engineering is all about the movement, manipulation, and management of data."**
-> — Lewis Gavin, *"What is Data Engineering?"*, O'Reilly, 2020
+> — Lewis Gavin, *"What is Data Engineering?"*, O'Reilly, 2020 
 
 > **"Data engineering is the development, implementation, and maintenance of systems and processes that take in raw data and produce high-quality, consistent information that supports downstream use cases, such as analysis and machine learning. Data engineering is the intersection of security, data management, DataOps, data architecture, orchestration, and software engineering."**
-> — Joe Reis & Matt Housley, *"Fundamentals of Data Engineering"*, O'Reilly, 2022
+> — Joe Reis & Matt Housley, *"Fundamentals of Data Engineering"*, O'Reilly, 2022, 
 
 In simpler terms, a **Data Engineer** is someone who collects, maintains, tests, manages, and provides access to (large) datasets, typically within an organization. As Data Science students, your goal is not necessarily to become Data Engineers, but rather to effectively handle and analyze big, complex datasets—a skill essential for any data scientist working in realistic, real-world environments.
 
